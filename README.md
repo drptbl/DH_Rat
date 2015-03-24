@@ -30,13 +30,6 @@ A simple Delphi RAT I made in the following options:<br>
 [+] Incorporates a keylogger that captures active windows keys<br>
 [+] You can uninstall the RAT<br>
 <br>
-The builder has the following options:<br>
-<br>
-[+] You can set whether you want to hide files<br>
-[+] You can set whether you want to load the Rat every time you start Windows<br>
-[+] You can set where you want to install the Rat<br>
-[+] File Pumper, Extension Spoofer and Icon Changer<br>
-<br>
 [+] Antis:<br>
 <br>
 [++] Virtual PC<br>
@@ -56,3 +49,11 @@ The builder has the following options:<br>
 [++] Taskmgr<br>
 [++] Regedit<br>
 [++] Updates<br>
+<br>
+The builder has the following options:<br>
+<br>
+[+] You can set whether you want to hide files<br>
+[+] You can set whether you want to load the Rat every time you start Windows<br>
+[+] You can set where you want to install the Rat<br>
+[+] File Pumper, Extension Spoofer and Icon Changer<br>
+
